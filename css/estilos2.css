@@ -1,0 +1,70 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#contenedor {
+    width: 1000px;
+    height: 825px;
+    border: 4px red solid;
+    margin: 1em auto;
+}
+
+#header {
+    display: flex;
+    border: 4px blue solid;
+    height: 200px;
+    margin: 4px;
+}
+
+#logo {
+    height: 97%;
+    width: 200px;
+    border: 4px green solid;
+    margin: 3px;
+}
+
+#banner {
+    width: 800px;
+    height: 97%;
+    border: 4px green solid;
+    margin: 3px;
+
+}
+
+#nav {
+    width: 999;
+    height: 50px;
+    border: 4px blue solid;
+    margin: 3px;
+}
+
+#contenido {
+    display: flex;
+    width: 999;
+    height: 500px;
+    border: 4px blue solid;
+    margin: 3px;
+}
+
+#article {
+    border: 4px green solid;
+    height: 99%;
+    width: 700px;
+    margin: 3px;
+}
+
+#aside {
+    width: 300px;
+    height: 99%;
+    border: 4px green solid;
+    margin: 3px;
+}
+
+#footer {
+    width: 99%;
+    height: 50px;
+    border: 4px blue solid;
+    margin: 3px;
+}
